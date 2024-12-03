@@ -1,0 +1,7189 @@
+{
+    "nodes": [
+        {
+            "id": 24,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Vicente Torres Lezama"
+            }
+        },
+        {
+            "id": 25,
+            "labels": [
+                "__Entity__",
+                "Magazine"
+            ],
+            "properties": {
+                "id": "Entrediversidades"
+            }
+        },
+        {
+            "id": 26,
+            "labels": [
+                "__Entity__",
+                "University"
+            ],
+            "properties": {
+                "id": "University Aut\u00f3noma De Chiapas"
+            }
+        },
+        {
+            "id": 27,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Ana Mar\u00eda"
+            }
+        },
+        {
+            "id": 28,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Argentina"
+            }
+        },
+        {
+            "id": 29,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Hermana"
+            }
+        },
+        {
+            "id": 30,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Padre"
+            }
+        },
+        {
+            "id": 31,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Madre"
+            }
+        },
+        {
+            "id": 32,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Bruce Mannheim"
+            }
+        },
+        {
+            "id": 33,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Luis Andrade"
+            }
+        },
+        {
+            "id": 34,
+            "labels": [
+                "Animal",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Perro"
+            }
+        },
+        {
+            "id": 35,
+            "labels": [
+                "Animal",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Oveja"
+            }
+        },
+        {
+            "id": 36,
+            "labels": [
+                "Animal",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Llama Joven"
+            }
+        },
+        {
+            "id": 37,
+            "labels": [
+                "__Entity__",
+                "Organization"
+            ],
+            "properties": {
+                "id": "Comisi\u00f3n De La Verdad Y Reconciliaci\u00f3n"
+            }
+        },
+        {
+            "id": 38,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Yeny Cereceda"
+            }
+        },
+        {
+            "id": 39,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Pachamama"
+            }
+        },
+        {
+            "id": 40,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Apu"
+            }
+        },
+        {
+            "id": 41,
+            "labels": [
+                "Entity",
+                "__Entity__",
+                "Deidad"
+            ],
+            "properties": {
+                "id": "Ni\u00f1o Compadrito"
+            }
+        },
+        {
+            "id": 42,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Pedro Pitarch"
+            }
+        },
+        {
+            "id": 43,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Santo"
+            }
+        },
+        {
+            "id": 44,
+            "labels": [
+                "Entity",
+                "Person",
+                "Deity",
+                "Religious figure",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Virgen"
+            }
+        },
+        {
+            "id": 45,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Papa"
+            }
+        },
+        {
+            "id": 46,
+            "labels": [
+                "__Entity__",
+                "Inhabitant"
+            ],
+            "properties": {
+                "id": "Pobladores"
+            }
+        },
+        {
+            "id": 47,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "V\u00edctimas"
+            }
+        },
+        {
+            "id": 48,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Violencia Interna"
+            }
+        },
+        {
+            "id": 49,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Pa\u00eds"
+            }
+        },
+        {
+            "id": 50,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Testimonios"
+            }
+        },
+        {
+            "id": 51,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Apurimac"
+            }
+        },
+        {
+            "id": 52,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Devotos"
+            }
+        },
+        {
+            "id": 53,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Monta\u00f1a"
+            }
+        },
+        {
+            "id": 54,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Madre Tierra"
+            }
+        },
+        {
+            "id": 55,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Sue\u00f1os"
+            }
+        },
+        {
+            "id": 56,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Arianna Cecconi"
+            }
+        },
+        {
+            "id": 57,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Carlos Flores Lizana"
+            }
+        },
+        {
+            "id": 58,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Juan De Dios Samochuallpa"
+            }
+        },
+        {
+            "id": 59,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Marianito Mayta"
+            }
+        },
+        {
+            "id": 60,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Don Anselmo Rojas"
+            }
+        },
+        {
+            "id": 61,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Se\u00f1or De Qoyllurit\u00b4I"
+            }
+        },
+        {
+            "id": 62,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Taytacha De Qhanqawani"
+            }
+        },
+        {
+            "id": 63,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Torres Lezama"
+            }
+        },
+        {
+            "id": 64,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Emerson"
+            }
+        },
+        {
+            "id": 65,
+            "labels": [
+                "Festividad religiosa",
+                "Event",
+                "Celebration",
+                "Festividad",
+                "Person",
+                "Virgen",
+                "Deity",
+                "Religious figure",
+                "__Entity__",
+                "Religious festival"
+            ],
+            "properties": {
+                "id": "Virgen Del Rosario"
+            }
+        },
+        {
+            "id": 66,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Isa\u00edas Rojas"
+            }
+        },
+        {
+            "id": 67,
+            "labels": [
+                "District",
+                "__Entity__",
+                "Location",
+                "Destino"
+            ],
+            "properties": {
+                "id": "Paucartambo"
+            }
+        },
+        {
+            "id": 68,
+            "labels": [
+                "Festividad religiosa",
+                "Event",
+                "Celebration",
+                "Festividad",
+                "Person",
+                "Deity",
+                "Religious figure",
+                "__Entity__",
+                "Religious festival"
+            ],
+            "properties": {
+                "id": "Virgen Del Carmen"
+            }
+        },
+        {
+            "id": 69,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Anselmo Rojas"
+            }
+        },
+        {
+            "id": 70,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Marcelino"
+            }
+        },
+        {
+            "id": 71,
+            "labels": [
+                "__Entity__",
+                "Virgen",
+                "Deity"
+            ],
+            "properties": {
+                "id": "Virgen Asunta"
+            }
+        },
+        {
+            "id": 72,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Jes\u00fas W. Rozas"
+            }
+        },
+        {
+            "id": 73,
+            "labels": [
+                "Entity",
+                "__Entity__",
+                "Persona"
+            ],
+            "properties": {
+                "id": "Mujer"
+            }
+        },
+        {
+            "id": 74,
+            "labels": [
+                "__Entity__",
+                "Cultivo"
+            ],
+            "properties": {
+                "id": "Maizal"
+            }
+        },
+        {
+            "id": 75,
+            "labels": [
+                "Enfermedad del ma\u00edz",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Puka Puncho"
+            }
+        },
+        {
+            "id": 76,
+            "labels": [
+                "__Entity__",
+                "Edificio religioso"
+            ],
+            "properties": {
+                "id": "Iglesia"
+            }
+        },
+        {
+            "id": 77,
+            "labels": [
+                "__Entity__",
+                "Representaci\u00f3n religiosa"
+            ],
+            "properties": {
+                "id": "Imagen"
+            }
+        },
+        {
+            "id": 78,
+            "labels": [
+                "__Entity__",
+                "Parcela con cultivo"
+            ],
+            "properties": {
+                "id": "Chacra"
+            }
+        },
+        {
+            "id": 79,
+            "labels": [
+                "__Entity__",
+                "Cultivo"
+            ],
+            "properties": {
+                "id": "Ma\u00edz"
+            }
+        },
+        {
+            "id": 80,
+            "labels": [
+                "__Entity__",
+                "Recurso econ\u00f3mico"
+            ],
+            "properties": {
+                "id": "Dinero"
+            }
+        },
+        {
+            "id": 81,
+            "labels": [
+                "__Entity__",
+                "Persona"
+            ],
+            "properties": {
+                "id": "Hijos"
+            }
+        },
+        {
+            "id": 82,
+            "labels": [
+                "__Entity__",
+                "Lugar de comercio",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Mercado"
+            }
+        },
+        {
+            "id": 83,
+            "labels": [
+                "__Entity__",
+                "Productos"
+            ],
+            "properties": {
+                "id": "Productos Agr\u00edcolas"
+            }
+        },
+        {
+            "id": 84,
+            "labels": [
+                "__Entity__",
+                "Deidad"
+            ],
+            "properties": {
+                "id": "Taytacha"
+            }
+        },
+        {
+            "id": 85,
+            "labels": [
+                "__Entity__",
+                "Profesional"
+            ],
+            "properties": {
+                "id": "Ingeniero"
+            }
+        },
+        {
+            "id": 86,
+            "labels": [
+                "__Entity__",
+                "Infraestructura"
+            ],
+            "properties": {
+                "id": "Carretera"
+            }
+        },
+        {
+            "id": 87,
+            "labels": [
+                "__Entity__",
+                "Equipamiento"
+            ],
+            "properties": {
+                "id": "Maquinarias"
+            }
+        },
+        {
+            "id": 88,
+            "labels": [
+                "Entity",
+                "Personas",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Peregrinos"
+            }
+        },
+        {
+            "id": 89,
+            "labels": [
+                "__Entity__",
+                "Deidad"
+            ],
+            "properties": {
+                "id": "Se\u00f1or De Ccoillor-Ritte"
+            }
+        },
+        {
+            "id": 90,
+            "labels": [
+                "__Entity__",
+                "Artista"
+            ],
+            "properties": {
+                "id": "Escultor"
+            }
+        },
+        {
+            "id": 91,
+            "labels": [
+                "__Entity__",
+                "Estructura rocosa"
+            ],
+            "properties": {
+                "id": "Pe\u00f1a"
+            }
+        },
+        {
+            "id": 92,
+            "labels": [
+                "__Entity__",
+                "Edificio religioso"
+            ],
+            "properties": {
+                "id": "Capilla"
+            }
+        },
+        {
+            "id": 93,
+            "labels": [
+                "Animal",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Caballo Blanco"
+            }
+        },
+        {
+            "id": 94,
+            "labels": [
+                "__Entity__",
+                "Persona"
+            ],
+            "properties": {
+                "id": "Esposa"
+            }
+        },
+        {
+            "id": 95,
+            "labels": [
+                "__Entity__",
+                "Medio de transporte"
+            ],
+            "properties": {
+                "id": "Tren"
+            }
+        },
+        {
+            "id": 96,
+            "labels": [
+                "__Entity__",
+                "Persona"
+            ],
+            "properties": {
+                "id": "Fabi\u00e1n Palomino"
+            }
+        },
+        {
+            "id": 97,
+            "labels": [
+                "__Entity__",
+                "Material promocional"
+            ],
+            "properties": {
+                "id": "Afiches"
+            }
+        },
+        {
+            "id": 98,
+            "labels": [
+                "__Entity__",
+                "Documentos"
+            ],
+            "properties": {
+                "id": "Programas"
+            }
+        },
+        {
+            "id": 99,
+            "labels": [
+                "__Entity__",
+                "Persona"
+            ],
+            "properties": {
+                "id": "Celador"
+            }
+        },
+        {
+            "id": 100,
+            "labels": [
+                "__Entity__",
+                "Religioso"
+            ],
+            "properties": {
+                "id": "Arzobispo De Cuzco"
+            }
+        },
+        {
+            "id": 101,
+            "labels": [
+                "Entity",
+                "__Entity__",
+                "Religioso"
+            ],
+            "properties": {
+                "id": "Monse\u00f1or Luis Vallejos Santoni"
+            }
+        },
+        {
+            "id": 102,
+            "labels": [
+                "__Entity__",
+                "Instituci\u00f3n religiosa"
+            ],
+            "properties": {
+                "id": "Iglesia Cat\u00f3lica"
+            }
+        },
+        {
+            "id": 103,
+            "labels": [
+                "Personas",
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Mujeres"
+            }
+        },
+        {
+            "id": 104,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Felipe"
+            }
+        },
+        {
+            "id": 105,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Mayordomo Entrante"
+            }
+        },
+        {
+            "id": 106,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Danzante Pablo"
+            }
+        },
+        {
+            "id": 107,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Mayordom\u00eda"
+            }
+        },
+        {
+            "id": 108,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Grupo De Danza"
+            }
+        },
+        {
+            "id": 109,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Taytacha Qhanqawani"
+            }
+        },
+        {
+            "id": 110,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Todopoderoso"
+            }
+        },
+        {
+            "id": 111,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Veh\u00edculo"
+            }
+        },
+        {
+            "id": 112,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Comunidad De Chuta"
+            }
+        },
+        {
+            "id": 113,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Obispo"
+            }
+        },
+        {
+            "id": 114,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Quechua Musqho"
+            }
+        },
+        {
+            "id": 115,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Pu\u00f1uy"
+            }
+        },
+        {
+            "id": 116,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Santos"
+            }
+        },
+        {
+            "id": 117,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Militar"
+            }
+        },
+        {
+            "id": 118,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Polic\u00eda"
+            }
+        },
+        {
+            "id": 119,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Ni\u00f1o"
+            }
+        },
+        {
+            "id": 120,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Viejo"
+            }
+        },
+        {
+            "id": 121,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Bulto De Santos"
+            }
+        },
+        {
+            "id": 122,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Devotos Y Peregrinos"
+            }
+        },
+        {
+            "id": 123,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Qhencha"
+            }
+        },
+        {
+            "id": 124,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Monse\u00f1or"
+            }
+        },
+        {
+            "id": 125,
+            "labels": [
+                "Entity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Santuario Del Sue\u00f1o"
+            }
+        },
+        {
+            "id": 126,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Persona"
+            }
+        },
+        {
+            "id": 127,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Ancelmo Rojas"
+            }
+        },
+        {
+            "id": 128,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Rosalvina Alvarez Cana"
+            }
+        },
+        {
+            "id": 129,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Miguel Huanca"
+            }
+        },
+        {
+            "id": 130,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Isaias Rojas Huaman"
+            }
+        },
+        {
+            "id": 131,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Jessely Carbajal Sanchez"
+            }
+        },
+        {
+            "id": 132,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Bertha Flores Garrido"
+            }
+        },
+        {
+            "id": 133,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Carmen Milagros Gutierrez Cuadros"
+            }
+        },
+        {
+            "id": 134,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Milagros Alccacuntor Farro\u00f1an"
+            }
+        },
+        {
+            "id": 135,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Kenny Salcedo Ttito"
+            }
+        },
+        {
+            "id": 136,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Flor Karina Flores Astete"
+            }
+        },
+        {
+            "id": 137,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Danzarina"
+            }
+        },
+        {
+            "id": 138,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Maricielo Salcedo Ttito"
+            }
+        },
+        {
+            "id": 139,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Heidy Salcedo Ttito"
+            }
+        },
+        {
+            "id": 140,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Danzarines De Albazos"
+            }
+        },
+        {
+            "id": 141,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Se\u00f1oras Caballeros"
+            }
+        },
+        {
+            "id": 142,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Qarataka"
+            }
+        },
+        {
+            "id": 143,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Taiku Chunchu"
+            }
+        },
+        {
+            "id": 144,
+            "labels": [
+                "Clothing",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Falda De Cuero De Ganado"
+            }
+        },
+        {
+            "id": 145,
+            "labels": [
+                "Musical instrument",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Clarinete"
+            }
+        },
+        {
+            "id": 146,
+            "labels": [
+                "Animal",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Caballo"
+            }
+        },
+        {
+            "id": 147,
+            "labels": [
+                "__Entity__",
+                "Montura"
+            ],
+            "properties": {
+                "id": "Inti Taita"
+            }
+        },
+        {
+            "id": 148,
+            "labels": [
+                "__Entity__",
+                "Montura"
+            ],
+            "properties": {
+                "id": "Quilla Mama"
+            }
+        },
+        {
+            "id": 149,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Tamborista"
+            }
+        },
+        {
+            "id": 150,
+            "labels": [
+                "__Entity__",
+                "Food"
+            ],
+            "properties": {
+                "id": "Phuti"
+            }
+        },
+        {
+            "id": 151,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Carguyoc"
+            }
+        },
+        {
+            "id": 152,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Mayordomos"
+            }
+        },
+        {
+            "id": 153,
+            "labels": [
+                "Object",
+                "__Entity__",
+                "Symbol"
+            ],
+            "properties": {
+                "id": "Achiwa"
+            }
+        },
+        {
+            "id": 154,
+            "labels": [
+                "Religious figure",
+                "__Entity__",
+                "Deity"
+            ],
+            "properties": {
+                "id": "Virgen Mar\u00eda"
+            }
+        },
+        {
+            "id": 155,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Pastorcitos"
+            }
+        },
+        {
+            "id": 156,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Qumillo"
+            }
+        },
+        {
+            "id": 157,
+            "labels": [
+                "Musical instrument",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Pututu"
+            }
+        },
+        {
+            "id": 158,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Jessely Carvajal S\u00e1nchez"
+            }
+        },
+        {
+            "id": 159,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Padre Hern\u00e1n"
+            }
+        },
+        {
+            "id": 160,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Edgar Guevara"
+            }
+        },
+        {
+            "id": 161,
+            "labels": [
+                "Religious figure",
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Santo Domingo De Guzm\u00e1n"
+            }
+        },
+        {
+            "id": 162,
+            "labels": [
+                "Religious figure",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "San Francisco"
+            }
+        },
+        {
+            "id": 163,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Valle"
+            }
+        },
+        {
+            "id": 164,
+            "labels": [
+                "__Entity__",
+                "Civilization",
+                "Group"
+            ],
+            "properties": {
+                "id": "Incas"
+            }
+        },
+        {
+            "id": 165,
+            "labels": [
+                "__Entity__",
+                "Ethnic group"
+            ],
+            "properties": {
+                "id": "Chunchus"
+            }
+        },
+        {
+            "id": 166,
+            "labels": [
+                "__Entity__",
+                "Ethnic group"
+            ],
+            "properties": {
+                "id": "Antisuyanos"
+            }
+        },
+        {
+            "id": 167,
+            "labels": [
+                "Symbol",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Chanan Qoricoca"
+            }
+        },
+        {
+            "id": 168,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Cuzco"
+            }
+        },
+        {
+            "id": 169,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Sim\u00f3n Cuarto De Montfort"
+            }
+        },
+        {
+            "id": 170,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Ramon"
+            }
+        },
+        {
+            "id": 171,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Salqa Qollas"
+            }
+        },
+        {
+            "id": 172,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Los Qollas"
+            }
+        },
+        {
+            "id": 173,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Acompa\u00f1antes"
+            }
+        },
+        {
+            "id": 174,
+            "labels": [
+                "Building",
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Cementerio"
+            }
+        },
+        {
+            "id": 175,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Tumbas"
+            }
+        },
+        {
+            "id": 176,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Personas"
+            }
+        },
+        {
+            "id": 177,
+            "labels": [
+                "Object",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Cajas De Cerveza"
+            }
+        },
+        {
+            "id": 178,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Bautizos"
+            }
+        },
+        {
+            "id": 179,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Romer\u00eda"
+            }
+        },
+        {
+            "id": 180,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Presentaci\u00f3n De La Virgen"
+            }
+        },
+        {
+            "id": 181,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Bendici\u00f3n"
+            }
+        },
+        {
+            "id": 182,
+            "labels": [
+                "Event",
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Danzas"
+            }
+        },
+        {
+            "id": 183,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Coreograf\u00edas"
+            }
+        },
+        {
+            "id": 184,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Plaza De Armas"
+            }
+        },
+        {
+            "id": 185,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Guerrilla"
+            }
+        },
+        {
+            "id": 186,
+            "labels": [
+                "__Entity__",
+                "Deity"
+            ],
+            "properties": {
+                "id": "Reina De Las Chunchadas"
+            }
+        },
+        {
+            "id": 187,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Cargowasis"
+            }
+        },
+        {
+            "id": 188,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Cacharpari"
+            }
+        },
+        {
+            "id": 189,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Misa"
+            }
+        },
+        {
+            "id": 190,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Danse Macanas"
+            }
+        },
+        {
+            "id": 191,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Varones"
+            }
+        },
+        {
+            "id": 192,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Danza Chunchada Paucartambina"
+            }
+        },
+        {
+            "id": 193,
+            "labels": [
+                "__Entity__",
+                "Role"
+            ],
+            "properties": {
+                "id": "Caporal"
+            }
+        },
+        {
+            "id": 194,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Ex Caporales"
+            }
+        },
+        {
+            "id": 195,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Ex Fundadores"
+            }
+        },
+        {
+            "id": 196,
+            "labels": [
+                "Object",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Traje"
+            }
+        },
+        {
+            "id": 197,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Danza De Albazo"
+            }
+        },
+        {
+            "id": 198,
+            "labels": [
+                "Object",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Trajes Rojos"
+            }
+        },
+        {
+            "id": 199,
+            "labels": [
+                "Object",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Flequillo Negro"
+            }
+        },
+        {
+            "id": 200,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Muchachas"
+            }
+        },
+        {
+            "id": 201,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Mam\u00e1s"
+            }
+        },
+        {
+            "id": 202,
+            "labels": [
+                "__Entity__",
+                "Deity"
+            ],
+            "properties": {
+                "id": "Ni\u00f1o Jes\u00fas"
+            }
+        },
+        {
+            "id": 203,
+            "labels": [
+                "Object",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Plumaje Peque\u00f1o"
+            }
+        },
+        {
+            "id": 204,
+            "labels": [
+                "__Entity__",
+                "Role"
+            ],
+            "properties": {
+                "id": "Capitana"
+            }
+        },
+        {
+            "id": 205,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Se\u00f1oritas Solteras"
+            }
+        },
+        {
+            "id": 206,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Santo Rosario"
+            }
+        },
+        {
+            "id": 207,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Rezo Tradicional Cat\u00f3lico"
+            }
+        },
+        {
+            "id": 208,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Misterios De La Vida De Jes\u00fas"
+            }
+        },
+        {
+            "id": 209,
+            "labels": [
+                "__Entity__",
+                "Deity"
+            ],
+            "properties": {
+                "id": "Jesucristo"
+            }
+        },
+        {
+            "id": 210,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Huatayuyarichicuy"
+            }
+        },
+        {
+            "id": 211,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Ex-Carguyocs"
+            }
+        },
+        {
+            "id": 212,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Ex-Danzarines"
+            }
+        },
+        {
+            "id": 213,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Ex-Caporales"
+            }
+        },
+        {
+            "id": 214,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Misa De V\u00edsperas"
+            }
+        },
+        {
+            "id": 215,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Quema De Castillos"
+            }
+        },
+        {
+            "id": 216,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Serenata A La Virgen"
+            }
+        },
+        {
+            "id": 217,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Procesi\u00f3n"
+            }
+        },
+        {
+            "id": 218,
+            "labels": [
+                "Building",
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Cargo Wasis"
+            }
+        },
+        {
+            "id": 219,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Merienda"
+            }
+        },
+        {
+            "id": 220,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Bautizo"
+            }
+        },
+        {
+            "id": 221,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Lucha Entre Lo Andino Y Lo Nativo"
+            }
+        },
+        {
+            "id": 222,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Tahuantinsuyo"
+            }
+        },
+        {
+            "id": 223,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Conquista"
+            }
+        },
+        {
+            "id": 224,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Guerreros Incas"
+            }
+        },
+        {
+            "id": 225,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Ohanna Y Carmen"
+            }
+        },
+        {
+            "id": 226,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Wenny Carmen Olivares Chevarr\u00eda"
+            }
+        },
+        {
+            "id": 227,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Mgt. Anahi, Najar Obando"
+            }
+        },
+        {
+            "id": 228,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Mgt. Marco F., Carpio Sanchez"
+            }
+        },
+        {
+            "id": 229,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Dra. Aydee, Flores Contreras"
+            }
+        },
+        {
+            "id": 230,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Lic. Cristian, Lopez Cereceda"
+            }
+        },
+        {
+            "id": 231,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Lic. Leone, Fuentes Monge"
+            }
+        },
+        {
+            "id": 232,
+            "labels": [
+                "__Entity__",
+                "Investigaci\u00f3n"
+            ],
+            "properties": {
+                "id": "Turismo Religioso En El Distrito De Paucartambo"
+            }
+        },
+        {
+            "id": 233,
+            "labels": [
+                "Event",
+                "Festividades religiosas",
+                "Concept",
+                "Recursos tur\u00edsticos",
+                "__Entity__",
+                "Actividad"
+            ],
+            "properties": {
+                "id": "Festividades Religiosas"
+            }
+        },
+        {
+            "id": 234,
+            "labels": [
+                "__Entity__",
+                "Turismo religioso"
+            ],
+            "properties": {
+                "id": "Segmento Poco Explorado En El Per\u00fa"
+            }
+        },
+        {
+            "id": 235,
+            "labels": [
+                "Cuantitativo",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Metodolog\u00eda"
+            }
+        },
+        {
+            "id": 236,
+            "labels": [
+                "__Entity__",
+                "No experimental"
+            ],
+            "properties": {
+                "id": "Nivel Correlacional"
+            }
+        },
+        {
+            "id": 237,
+            "labels": [
+                "Festividad religiosa",
+                "Event",
+                "Festividad",
+                "__Entity__",
+                "Religious festival",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Semana Santa"
+            }
+        },
+        {
+            "id": 238,
+            "labels": [
+                "Festividad religiosa",
+                "Event",
+                "Celebration",
+                "Festividad",
+                "__Entity__",
+                "Religious festival"
+            ],
+            "properties": {
+                "id": "Corpus Christi"
+            }
+        },
+        {
+            "id": 239,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Investigaci\u00f3n"
+            }
+        },
+        {
+            "id": 240,
+            "labels": [
+                "Tourism",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Religious Tourism"
+            }
+        },
+        {
+            "id": 241,
+            "labels": [
+                "Event",
+                "__Entity__",
+                "Festivities"
+            ],
+            "properties": {
+                "id": "Festivities"
+            }
+        },
+        {
+            "id": 242,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Visitor"
+            }
+        },
+        {
+            "id": 243,
+            "labels": [
+                "__Entity__",
+                "Economy"
+            ],
+            "properties": {
+                "id": "Local Economy"
+            }
+        },
+        {
+            "id": 244,
+            "labels": [
+                "__Entity__",
+                "Population"
+            ],
+            "properties": {
+                "id": "Population"
+            }
+        },
+        {
+            "id": 245,
+            "labels": [
+                "Services",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Tourist Services"
+            }
+        },
+        {
+            "id": 246,
+            "labels": [
+                "__Entity__",
+                "City"
+            ],
+            "properties": {
+                "id": "Cusco"
+            }
+        },
+        {
+            "id": 247,
+            "labels": [
+                "Tourism",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Tourism"
+            }
+        },
+        {
+            "id": 248,
+            "labels": [
+                "__Entity__",
+                "Economy"
+            ],
+            "properties": {
+                "id": "Economy"
+            }
+        },
+        {
+            "id": 249,
+            "labels": [
+                "Residents",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Residents"
+            }
+        },
+        {
+            "id": 250,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Moche"
+            }
+        },
+        {
+            "id": 251,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Oferta Tur\u00edstica Cultural"
+            }
+        },
+        {
+            "id": 252,
+            "labels": [
+                "Gastronomy",
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Gastronom\u00eda"
+            }
+        },
+        {
+            "id": 253,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Fiestas Tradicionales"
+            }
+        },
+        {
+            "id": 254,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Artes Pl\u00e1sticas"
+            }
+        },
+        {
+            "id": 255,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Artesan\u00edas"
+            }
+        },
+        {
+            "id": 256,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Distrito De Moche"
+            }
+        },
+        {
+            "id": 257,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Autora"
+            }
+        },
+        {
+            "id": 258,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Luis Alberto Condori Taqquere"
+            }
+        },
+        {
+            "id": 259,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Ruth Lizbeth Mej\u00eda Ocampo"
+            }
+        },
+        {
+            "id": 260,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Ancahuasi"
+            }
+        },
+        {
+            "id": 261,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Calca"
+            }
+        },
+        {
+            "id": 262,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Suyunakuy Chaquitacllawan"
+            }
+        },
+        {
+            "id": 263,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Anta"
+            }
+        },
+        {
+            "id": 264,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Regi\u00f3n Cusco"
+            }
+        },
+        {
+            "id": 265,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Distritos De Ancahuasi, Calca Y Anta"
+            }
+        },
+        {
+            "id": 266,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Provincias De Anta Y Calca"
+            }
+        },
+        {
+            "id": 267,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "San Jer\u00f3nimo"
+            }
+        },
+        {
+            "id": 268,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "San Salvador"
+            }
+        },
+        {
+            "id": 269,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Se\u00f1or De Huanca"
+            }
+        },
+        {
+            "id": 270,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "San Sebasti\u00e1n"
+            }
+        },
+        {
+            "id": 271,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Qoyllurit\u2019I"
+            }
+        },
+        {
+            "id": 272,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Ocongate"
+            }
+        },
+        {
+            "id": 273,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Economista Martin Cabada"
+            }
+        },
+        {
+            "id": 274,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Licenciado En Turismo Leone Fuentes"
+            }
+        },
+        {
+            "id": 275,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Arquitecto Yuri Villafuerte"
+            }
+        },
+        {
+            "id": 276,
+            "labels": [
+                "__Entity__",
+                "Organization",
+                "Dircetur"
+            ],
+            "properties": {
+                "id": "Dircetur"
+            }
+        },
+        {
+            "id": 277,
+            "labels": [
+                "Variable",
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Turismo Religioso"
+            }
+        },
+        {
+            "id": 278,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Industria"
+            }
+        },
+        {
+            "id": 279,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Viajes"
+            }
+        },
+        {
+            "id": 280,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Inter\u00e9s Econ\u00f3mico"
+            }
+        },
+        {
+            "id": 281,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Turista"
+            }
+        },
+        {
+            "id": 282,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Econom\u00eda"
+            }
+        },
+        {
+            "id": 283,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Patrimonio"
+            }
+        },
+        {
+            "id": 284,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Culto"
+            }
+        },
+        {
+            "id": 285,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Peregrinaci\u00f3n"
+            }
+        },
+        {
+            "id": 286,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Actividad Tur\u00edstica"
+            }
+        },
+        {
+            "id": 287,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Impacto Econ\u00f3mico"
+            }
+        },
+        {
+            "id": 288,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Impacto F\u00edsico"
+            }
+        },
+        {
+            "id": 289,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Impacto Social Y Cultural"
+            }
+        },
+        {
+            "id": 290,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Econom\u00eda Local"
+            }
+        },
+        {
+            "id": 291,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Desarrollo Econ\u00f3mico"
+            }
+        },
+        {
+            "id": 292,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Econom\u00eda Tur\u00edstica"
+            }
+        },
+        {
+            "id": 293,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Sistema Econ\u00f3mico Tur\u00edstico"
+            }
+        },
+        {
+            "id": 294,
+            "labels": [
+                "__Entity__",
+                "Tourist offer",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Oferta Tur\u00edstica"
+            }
+        },
+        {
+            "id": 295,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Establecimientos"
+            }
+        },
+        {
+            "id": 296,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Bienes Y Servicios"
+            }
+        },
+        {
+            "id": 297,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Producto Tur\u00edstico"
+            }
+        },
+        {
+            "id": 298,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Infraestructura"
+            }
+        },
+        {
+            "id": 299,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Valores Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 300,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Demanda Tur\u00edstica"
+            }
+        },
+        {
+            "id": 301,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Motivaciones De Viaje"
+            }
+        },
+        {
+            "id": 302,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Patrimonio Cultural"
+            }
+        },
+        {
+            "id": 303,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Monumentos"
+            }
+        },
+        {
+            "id": 304,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Conjuntos"
+            }
+        },
+        {
+            "id": 305,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Lugares"
+            }
+        },
+        {
+            "id": 306,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Patrimonio Material"
+            }
+        },
+        {
+            "id": 307,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Patrimonio Inmaterial"
+            }
+        },
+        {
+            "id": 308,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Patrimonio Intangible"
+            }
+        },
+        {
+            "id": 309,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Manifestaciones Culturales"
+            }
+        },
+        {
+            "id": 310,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Festividad"
+            }
+        },
+        {
+            "id": 311,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Festividades Religiosas Del Distrito De Paucartambo"
+            }
+        },
+        {
+            "id": 312,
+            "labels": [
+                "Celebration",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "S\u00e1bado De Gloria"
+            }
+        },
+        {
+            "id": 313,
+            "labels": [
+                "Celebration",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Domingo De Resurrecci\u00f3n"
+            }
+        },
+        {
+            "id": 314,
+            "labels": [
+                "Category",
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Turistas"
+            }
+        },
+        {
+            "id": 315,
+            "labels": [
+                "Category",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Excursionistas"
+            }
+        },
+        {
+            "id": 316,
+            "labels": [
+                "__Entity__",
+                "Service quality",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Calidad De Servicios"
+            }
+        },
+        {
+            "id": 317,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Conocimiento Y Experiencias"
+            }
+        },
+        {
+            "id": 318,
+            "labels": [
+                "Planta tur\u00edstica",
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Planta Tur\u00edstica"
+            }
+        },
+        {
+            "id": 319,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Transporte Y Accesibilidad"
+            }
+        },
+        {
+            "id": 320,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Promoci\u00f3n"
+            }
+        },
+        {
+            "id": 321,
+            "labels": [
+                "Hypothesis",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Hip\u00f3tesis General"
+            }
+        },
+        {
+            "id": 322,
+            "labels": [
+                "Hypothesis",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Hip\u00f3tesis Espec\u00edficas"
+            }
+        },
+        {
+            "id": 323,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Variables E Indicadores"
+            }
+        },
+        {
+            "id": 324,
+            "labels": [
+                "Variable",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Econom\u00eda Tur\u00edstica Local"
+            }
+        },
+        {
+            "id": 325,
+            "labels": [
+                "__Entity__",
+                "Organization"
+            ],
+            "properties": {
+                "id": "Ministerio De Comercio Exterior Y Turismo"
+            }
+        },
+        {
+            "id": 326,
+            "labels": [
+                "__Entity__",
+                "Software"
+            ],
+            "properties": {
+                "id": "Spss"
+            }
+        },
+        {
+            "id": 327,
+            "labels": [
+                "__Entity__",
+                "Software"
+            ],
+            "properties": {
+                "id": "Microsoft Excel"
+            }
+        },
+        {
+            "id": 328,
+            "labels": [
+                "__Entity__",
+                "Actividad"
+            ],
+            "properties": {
+                "id": "Turismo De Aventura"
+            }
+        },
+        {
+            "id": 329,
+            "labels": [
+                "__Entity__",
+                "Figure"
+            ],
+            "properties": {
+                "id": "Figura 12"
+            }
+        },
+        {
+            "id": 330,
+            "labels": [
+                "__Entity__",
+                "Tourist resource"
+            ],
+            "properties": {
+                "id": "Recurso Tur\u00edstico"
+            }
+        },
+        {
+            "id": 331,
+            "labels": [
+                "Visitantes",
+                "Visitor",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Visitantes"
+            }
+        },
+        {
+            "id": 332,
+            "labels": [
+                "__Entity__",
+                "Tourism promotion",
+                "Promoci\u00f3n tur\u00edstica"
+            ],
+            "properties": {
+                "id": "Promoci\u00f3n Tur\u00edstica"
+            }
+        },
+        {
+            "id": 333,
+            "labels": [
+                "Tourism service provider",
+                "__Entity__",
+                "Servicios tur\u00edsticos",
+                "Service"
+            ],
+            "properties": {
+                "id": "Servicios Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 334,
+            "labels": [
+                "__Entity__",
+                "Hotel"
+            ],
+            "properties": {
+                "id": "Hoteles"
+            }
+        },
+        {
+            "id": 335,
+            "labels": [
+                "__Entity__",
+                "Restaurant"
+            ],
+            "properties": {
+                "id": "Restaurantes"
+            }
+        },
+        {
+            "id": 336,
+            "labels": [
+                "__Entity__",
+                "Food stalls"
+            ],
+            "properties": {
+                "id": "Puestos De Viandas"
+            }
+        },
+        {
+            "id": 337,
+            "labels": [
+                "__Entity__",
+                "Transport",
+                "Transporte",
+                "Service"
+            ],
+            "properties": {
+                "id": "Transporte"
+            }
+        },
+        {
+            "id": 338,
+            "labels": [
+                "Accessibility",
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Accesibilidad"
+            }
+        },
+        {
+            "id": 339,
+            "labels": [
+                "__Entity__",
+                "Experiences"
+            ],
+            "properties": {
+                "id": "Experiencias"
+            }
+        },
+        {
+            "id": 340,
+            "labels": [
+                "Knowledge sharing",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Conocimiento"
+            }
+        },
+        {
+            "id": 341,
+            "labels": [
+                "__Entity__",
+                "Poblaci\u00f3n prestadora de servicios tur\u00edsticos"
+            ],
+            "properties": {
+                "id": "Poblaci\u00f3n Prestadora De Servicios Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 342,
+            "labels": [
+                "__Entity__",
+                "Perspectiva"
+            ],
+            "properties": {
+                "id": "Perspectiva De La Poblaci\u00f3n Prestadora De Servicios Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 343,
+            "labels": [
+                "__Entity__",
+                "Incremento de ingresos"
+            ],
+            "properties": {
+                "id": "Incremento De Ingresos"
+            }
+        },
+        {
+            "id": 344,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Usos Y Costumbres"
+            }
+        },
+        {
+            "id": 345,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Recursos Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 346,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Navarro"
+            }
+        },
+        {
+            "id": 347,
+            "labels": [
+                "__Entity__",
+                "Organization"
+            ],
+            "properties": {
+                "id": "Omt"
+            }
+        },
+        {
+            "id": 348,
+            "labels": [
+                "__Entity__",
+                "Organization"
+            ],
+            "properties": {
+                "id": "Mincetur"
+            }
+        },
+        {
+            "id": 349,
+            "labels": [
+                "Activity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Encuestas Al Visitante"
+            }
+        },
+        {
+            "id": 350,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Poblaci\u00f3n"
+            }
+        },
+        {
+            "id": 351,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Distrito De Paucartambo"
+            }
+        },
+        {
+            "id": 352,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Presupuesto"
+            }
+        },
+        {
+            "id": 353,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Tiempo De Viaje"
+            }
+        },
+        {
+            "id": 354,
+            "labels": [
+                "__Entity__",
+                "Service"
+            ],
+            "properties": {
+                "id": "Servicio De Alojamiento"
+            }
+        },
+        {
+            "id": 355,
+            "labels": [
+                "__Entity__",
+                "Service"
+            ],
+            "properties": {
+                "id": "Servicio De Restaurante"
+            }
+        },
+        {
+            "id": 356,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Calidad"
+            }
+        },
+        {
+            "id": 357,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Gastronom\u00eda Local"
+            }
+        },
+        {
+            "id": 358,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Platos"
+            }
+        },
+        {
+            "id": 359,
+            "labels": [
+                "__Entity__",
+                "Organization"
+            ],
+            "properties": {
+                "id": "Municipio"
+            }
+        },
+        {
+            "id": 360,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Agricultura"
+            }
+        },
+        {
+            "id": 361,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Ganader\u00eda"
+            }
+        },
+        {
+            "id": 362,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Religiosidad"
+            }
+        },
+        {
+            "id": 363,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Documentaci\u00f3n"
+            }
+        },
+        {
+            "id": 364,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Datos Estad\u00edsticos"
+            }
+        },
+        {
+            "id": 365,
+            "labels": [
+                "Activity",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Encuestas"
+            }
+        },
+        {
+            "id": 366,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Tema Religioso"
+            }
+        },
+        {
+            "id": 367,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Registro"
+            }
+        },
+        {
+            "id": 368,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Aporte Econ\u00f3mico"
+            }
+        },
+        {
+            "id": 369,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Actividad Econ\u00f3mica"
+            }
+        },
+        {
+            "id": 370,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Plan De Promoci\u00f3n Tur\u00edstica"
+            }
+        },
+        {
+            "id": 371,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Objetivo"
+            }
+        },
+        {
+            "id": 372,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Estrategias"
+            }
+        },
+        {
+            "id": 373,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Calendario Tur\u00edstico Religioso"
+            }
+        },
+        {
+            "id": 374,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Material De Apoyo Promocional"
+            }
+        },
+        {
+            "id": 375,
+            "labels": [
+                "__Entity__",
+                "Itinerarios",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Itinerarios"
+            }
+        },
+        {
+            "id": 376,
+            "labels": [
+                "__Entity__",
+                "Concept"
+            ],
+            "properties": {
+                "id": "Recorridos Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 377,
+            "labels": [
+                "__Entity__",
+                "Servicios"
+            ],
+            "properties": {
+                "id": "Servicios"
+            }
+        },
+        {
+            "id": 378,
+            "labels": [
+                "__Entity__",
+                "Visitante"
+            ],
+            "properties": {
+                "id": "Visitante"
+            }
+        },
+        {
+            "id": 379,
+            "labels": [
+                "__Entity__",
+                "Ingresos"
+            ],
+            "properties": {
+                "id": "Ingresos"
+            }
+        },
+        {
+            "id": 380,
+            "labels": [
+                "__Entity__",
+                "Capacitaci\u00f3n"
+            ],
+            "properties": {
+                "id": "Capacitaci\u00f3n"
+            }
+        },
+        {
+            "id": 381,
+            "labels": [
+                "__Entity__",
+                "Mejora f\u00edsica"
+            ],
+            "properties": {
+                "id": "Mejora_F\u00edsica"
+            }
+        },
+        {
+            "id": 382,
+            "labels": [
+                "Coordinaci\u00f3n",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Coordinaci\u00f3n"
+            }
+        },
+        {
+            "id": 383,
+            "labels": [
+                "Asesoramiento",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Asesoramiento"
+            }
+        },
+        {
+            "id": 384,
+            "labels": [
+                "__Entity__",
+                "M\u00f3dulo de informaci\u00f3n"
+            ],
+            "properties": {
+                "id": "M\u00f3dulo_Informaci\u00f3n"
+            }
+        },
+        {
+            "id": 385,
+            "labels": [
+                "__Entity__",
+                "Festividades religiosas"
+            ],
+            "properties": {
+                "id": "Festividades_Religiosas"
+            }
+        },
+        {
+            "id": 386,
+            "labels": [
+                "__Entity__",
+                "Empresas operadoras"
+            ],
+            "properties": {
+                "id": "Empresas_Operadoras"
+            }
+        },
+        {
+            "id": 387,
+            "labels": [
+                "__Entity__",
+                "Agencias de viajes"
+            ],
+            "properties": {
+                "id": "Agencias_Viajes"
+            }
+        },
+        {
+            "id": 388,
+            "labels": [
+                "Docentes",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Docentes"
+            }
+        },
+        {
+            "id": 389,
+            "labels": [
+                "__Entity__",
+                "Universidades"
+            ],
+            "properties": {
+                "id": "Universidades"
+            }
+        },
+        {
+            "id": 390,
+            "labels": [
+                "__Entity__",
+                "Empresas gubernamentales"
+            ],
+            "properties": {
+                "id": "Empresas_Gubernamentales"
+            }
+        },
+        {
+            "id": 391,
+            "labels": [
+                "__Entity__",
+                "Prensa especializada"
+            ],
+            "properties": {
+                "id": "Prensa_Especializada"
+            }
+        },
+        {
+            "id": 392,
+            "labels": [
+                "__Entity__",
+                "Programas televisivos"
+            ],
+            "properties": {
+                "id": "Programas_Televisivos"
+            }
+        },
+        {
+            "id": 393,
+            "labels": [
+                "Programas radiales",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Programas_Radiales"
+            }
+        },
+        {
+            "id": 394,
+            "labels": [
+                "Costumbres y tradiciones",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Costumbres_Tradiciones"
+            }
+        },
+        {
+            "id": 395,
+            "labels": [
+                "Medios de comunicaci\u00f3n",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Medios_Comunicaci\u00f3n"
+            }
+        },
+        {
+            "id": 396,
+            "labels": [
+                "__Entity__",
+                "Redes sociales"
+            ],
+            "properties": {
+                "id": "Redes_Sociales"
+            }
+        },
+        {
+            "id": 397,
+            "labels": [
+                "Facebook",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Facebook"
+            }
+        },
+        {
+            "id": 398,
+            "labels": [
+                "__Entity__",
+                "Instagram"
+            ],
+            "properties": {
+                "id": "Instagram"
+            }
+        },
+        {
+            "id": 399,
+            "labels": [
+                "__Entity__",
+                "Fotos y videos"
+            ],
+            "properties": {
+                "id": "Fotos_Videos"
+            }
+        },
+        {
+            "id": 400,
+            "labels": [
+                "__Entity__",
+                "Historias y programaci\u00f3n"
+            ],
+            "properties": {
+                "id": "Historias_Programaci\u00f3n"
+            }
+        },
+        {
+            "id": 401,
+            "labels": [
+                "__Entity__",
+                "Datos \u00fatiles"
+            ],
+            "properties": {
+                "id": "Datos_\u00datiles"
+            }
+        },
+        {
+            "id": 402,
+            "labels": [
+                "__Entity__",
+                "Calendario tur\u00edstico religioso"
+            ],
+            "properties": {
+                "id": "Calendario_Tur\u00edstico"
+            }
+        },
+        {
+            "id": 403,
+            "labels": [
+                "__Entity__",
+                "Tours"
+            ],
+            "properties": {
+                "id": "Tours"
+            }
+        },
+        {
+            "id": 404,
+            "labels": [
+                "__Entity__",
+                "Necesidades y deseos"
+            ],
+            "properties": {
+                "id": "Necesidades_Deseos"
+            }
+        },
+        {
+            "id": 405,
+            "labels": [
+                "__Entity__",
+                "Cantidad y elecci\u00f3n de d\u00edas"
+            ],
+            "properties": {
+                "id": "Cantidad_Elegir_D\u00edas"
+            }
+        },
+        {
+            "id": 406,
+            "labels": [
+                "Actividades opcionales",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Actividades_Opcionales"
+            }
+        },
+        {
+            "id": 407,
+            "labels": [
+                "Atractivos arqueol\u00f3gicos",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Atractivos_Arqueol\u00f3gicos"
+            }
+        },
+        {
+            "id": 408,
+            "labels": [
+                "__Entity__",
+                "Tarifas"
+            ],
+            "properties": {
+                "id": "Tarifas"
+            }
+        },
+        {
+            "id": 409,
+            "labels": [
+                "__Entity__",
+                "Hospedaje"
+            ],
+            "properties": {
+                "id": "Hospedaje"
+            }
+        },
+        {
+            "id": 410,
+            "labels": [
+                "__Entity__",
+                "Alimentaci\u00f3n"
+            ],
+            "properties": {
+                "id": "Alimentaci\u00f3n"
+            }
+        },
+        {
+            "id": 411,
+            "labels": [
+                "__Entity__",
+                "Semana santa"
+            ],
+            "properties": {
+                "id": "Semana_Santa"
+            }
+        },
+        {
+            "id": 412,
+            "labels": [
+                "__Entity__",
+                "Domingo de ramos"
+            ],
+            "properties": {
+                "id": "Domingo_Ramos"
+            }
+        },
+        {
+            "id": 413,
+            "labels": [
+                "__Entity__",
+                "Lunes santo"
+            ],
+            "properties": {
+                "id": "Lunes_Santo"
+            }
+        },
+        {
+            "id": 414,
+            "labels": [
+                "Martes santo",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Martes_Santo"
+            }
+        },
+        {
+            "id": 415,
+            "labels": [
+                "Mi\u00e9rcoles santo",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Mi\u00e9rcoles_Santo"
+            }
+        },
+        {
+            "id": 416,
+            "labels": [
+                "__Entity__",
+                "Jueves santo"
+            ],
+            "properties": {
+                "id": "Jueves_Santo"
+            }
+        },
+        {
+            "id": 417,
+            "labels": [
+                "__Entity__",
+                "Viernes santo"
+            ],
+            "properties": {
+                "id": "Viernes_Santo"
+            }
+        },
+        {
+            "id": 418,
+            "labels": [
+                "__Entity__",
+                "S\u00e1bado de gloria"
+            ],
+            "properties": {
+                "id": "S\u00e1bado_Gloria"
+            }
+        },
+        {
+            "id": 419,
+            "labels": [
+                "Domingo de resurrecci\u00f3n",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Domingo_Resurrecci\u00f3n"
+            }
+        },
+        {
+            "id": 420,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Poblador"
+            }
+        },
+        {
+            "id": 421,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Sacerdote"
+            }
+        },
+        {
+            "id": 422,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "Mar\u00eda"
+            }
+        },
+        {
+            "id": 423,
+            "labels": [
+                "__Entity__",
+                "Person"
+            ],
+            "properties": {
+                "id": "San Antonio De Padua"
+            }
+        },
+        {
+            "id": 424,
+            "labels": [
+                "__Entity__",
+                "Food"
+            ],
+            "properties": {
+                "id": "Lech\u00f3n Paucartambino"
+            }
+        },
+        {
+            "id": 425,
+            "labels": [
+                "Building",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Templo"
+            }
+        },
+        {
+            "id": 426,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Calles Del Pueblo"
+            }
+        },
+        {
+            "id": 427,
+            "labels": [
+                "Building",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Restaurante Local"
+            }
+        },
+        {
+            "id": 428,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Phuty"
+            }
+        },
+        {
+            "id": 429,
+            "labels": [
+                "__Entity__",
+                "Music genre"
+            ],
+            "properties": {
+                "id": "Huaynos"
+            }
+        },
+        {
+            "id": 430,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Bautizos Tradicionales"
+            }
+        },
+        {
+            "id": 431,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Plaza"
+            }
+        },
+        {
+            "id": 432,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Puente Carlos Iii"
+            }
+        },
+        {
+            "id": 433,
+            "labels": [
+                "__Entity__",
+                "Location"
+            ],
+            "properties": {
+                "id": "Suyos"
+            }
+        },
+        {
+            "id": 434,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Chunchada"
+            }
+        },
+        {
+            "id": 435,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Inkari Maqana"
+            }
+        },
+        {
+            "id": 436,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Guerra"
+            }
+        },
+        {
+            "id": 437,
+            "labels": [
+                "__Entity__",
+                "Group"
+            ],
+            "properties": {
+                "id": "Nativos De La Selva Paucartambina"
+            }
+        },
+        {
+            "id": 438,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Watoqto"
+            }
+        },
+        {
+            "id": 439,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Hatun Merienda"
+            }
+        },
+        {
+            "id": 440,
+            "labels": [
+                "Event",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Kacharpari"
+            }
+        },
+        {
+            "id": 441,
+            "labels": [
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Fiesta Popular"
+            }
+        },
+        {
+            "id": 442,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Convenio Internacional Para La Salvaguardia Del Patrimonio Cultural Inmaterial"
+            }
+        },
+        {
+            "id": 443,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "El Culto Lime\u00f1o Al Se\u00f1or De Los Milagros (Siglos Xvii Al Xxi): Fundamentos Hist\u00f3ricos Para Repensar Una Devoci\u00f3n Mestiza"
+            }
+        },
+        {
+            "id": 444,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Festividad De La Mamacha Carmen De Paucartambo Plan De Salvaguardia"
+            }
+        },
+        {
+            "id": 445,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Antologias Paucartambinas Mamay Carmen"
+            }
+        },
+        {
+            "id": 446,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Gestion De Turismo Sostenible Y Patrimonio Cultural"
+            }
+        },
+        {
+            "id": 447,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Manual De Calidad Turistica"
+            }
+        },
+        {
+            "id": 448,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Boletin Estadistico De Turismo"
+            }
+        },
+        {
+            "id": 449,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "De La Cultura Como Patrimonio Al Patrimonio Cultural"
+            }
+        },
+        {
+            "id": 450,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Turismo Religioso Y El Valor Sagrado De Los Lugares: Simbologia Identitaria Y Patrimonializaci\u00f3n Del Monasterio De Santo Toribio De Li\u00e9bana (Cantabria)"
+            }
+        },
+        {
+            "id": 451,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "La Econom\u00eda Local. La Funci\u00f3n De Las Agencias De Desarrollo"
+            }
+        },
+        {
+            "id": 452,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Introduccion Al Turismo"
+            }
+        },
+        {
+            "id": 453,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "La Nueva Din\u00e1mica Del Turismo Religioso Y Espiritual"
+            }
+        },
+        {
+            "id": 454,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Identidad Cultural, Un Concepto Que Evoluciona"
+            }
+        },
+        {
+            "id": 455,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Qhapaq Negro De Paucartambo"
+            }
+        },
+        {
+            "id": 456,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Recursos Turisticos Y Atractivos Turisticos: Conceptualizacion, Clasificaci\u00f3n Y Valoraci\u00f3n"
+            }
+        },
+        {
+            "id": 457,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Econom\u00eda 18 Edici\u00f3n"
+            }
+        },
+        {
+            "id": 458,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Agenda Para Planificadores Locales:Turismo Sostenible Y Gesti\u00f3n Municipal"
+            }
+        },
+        {
+            "id": 459,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Recomendaciones Internacionales Para Estadisticas De Turismo"
+            }
+        },
+        {
+            "id": 460,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Los Recursos De Los Destinos Tur\u00edsticos"
+            }
+        },
+        {
+            "id": 461,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Promocion Turistica"
+            }
+        },
+        {
+            "id": 462,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Semana Santa: Ayacucho Espera Recibir A M\u00e1s De 50,000 Visitantes"
+            }
+        },
+        {
+            "id": 463,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "El Patrimonio Cultural Como Opci\u00f3n Tur\u00edstica"
+            }
+        },
+        {
+            "id": 464,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Turismo Religioso Y Espacios Sagrados:"
+            }
+        },
+        {
+            "id": 465,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Historia, Memoria, Identidad Y Performanceen Una Fiesta: La Semana Santa De Ayacucho"
+            }
+        },
+        {
+            "id": 466,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Turismo Cultural, Tuismo Religioso Y Peregrinaciones En Navarra. Las Javeriadas Como Caso De Estudio"
+            }
+        },
+        {
+            "id": 467,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Estado De La Red Vial Nacional"
+            }
+        },
+        {
+            "id": 468,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Diccionario De La Lengua Espa\u00f1ola, 23.\u00aa Ed."
+            }
+        },
+        {
+            "id": 469,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Metodologia De La Investigacion 6Ta Ed."
+            }
+        },
+        {
+            "id": 470,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Turismo Religioso: Fen\u00f3meno Social Y Econ\u00f3mico"
+            }
+        },
+        {
+            "id": 471,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "La Fiesta De La Virgen De La Candelaria En Puno"
+            }
+        },
+        {
+            "id": 472,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Paucartambo Provincia Folklorica: Mamacha Carmen Tomo Ii"
+            }
+        },
+        {
+            "id": 473,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Paucartambo. Anecdotas, Turismo Y Artistas. Tomo Iii"
+            }
+        },
+        {
+            "id": 474,
+            "labels": [
+                "Document",
+                "__Entity__"
+            ],
+            "properties": {
+                "id": "Operational Guidelines For The Implementation Of The World Heritage Convention"
+            }
+        },
+        {
+            "id": 475,
+            "labels": [
+                "__Entity__",
+                "Data collection instrument"
+            ],
+            "properties": {
+                "id": "Encuestas De Demanda"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": 24,
+            "target": 25,
+            "type": "CONTRIBUTED_TO",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 56,
+            "type": "COLLABORATOR",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 57,
+            "type": "COLLABORATOR",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 45,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 31,
+            "type": "CONSULTS",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 31,
+            "type": "INTERPRETS_DREAM",
+            "properties": {}
+        },
+        {
+            "source": 24,
+            "target": 45,
+            "type": "DIES",
+            "properties": {}
+        },
+        {
+            "source": 26,
+            "target": 25,
+            "type": "PUBLISHED_IN",
+            "properties": {}
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "type": "SIBLING",
+            "properties": {}
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "type": "CALLS",
+            "properties": {}
+        },
+        {
+            "source": 27,
+            "target": 31,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "type": "SEEKS_HELP",
+            "properties": {}
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "type": "ASSISTS",
+            "properties": {}
+        },
+        {
+            "source": 29,
+            "target": 28,
+            "type": "LIVES_IN",
+            "properties": {}
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 29,
+            "target": 31,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 29,
+            "target": 45,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 29,
+            "target": 27,
+            "type": "CONTACTS",
+            "properties": {}
+        },
+        {
+            "source": 31,
+            "target": 27,
+            "type": "COMFORTS",
+            "properties": {}
+        },
+        {
+            "source": 31,
+            "target": 45,
+            "type": "FEELS_PRESENCE",
+            "properties": {}
+        },
+        {
+            "source": 37,
+            "target": 49,
+            "type": "OPERATES_IN",
+            "properties": {}
+        },
+        {
+            "source": 37,
+            "target": 46,
+            "type": "COLLECTS_TESTIMONIES",
+            "properties": {}
+        },
+        {
+            "source": 37,
+            "target": 47,
+            "type": "DOCUMENTS",
+            "properties": {}
+        },
+        {
+            "source": 37,
+            "target": 48,
+            "type": "INVESTIGATES",
+            "properties": {}
+        },
+        {
+            "source": 37,
+            "target": 50,
+            "type": "CITES",
+            "properties": {}
+        },
+        {
+            "source": 38,
+            "target": 51,
+            "type": "MENTIONS",
+            "properties": {}
+        },
+        {
+            "source": 39,
+            "target": 54,
+            "type": "ASSOCIATED_WITH",
+            "properties": {}
+        },
+        {
+            "source": 39,
+            "target": 46,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 40,
+            "target": 53,
+            "type": "ASSOCIATED_WITH",
+            "properties": {}
+        },
+        {
+            "source": 40,
+            "target": 46,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 41,
+            "target": 101,
+            "type": "ACCIDENTE",
+            "properties": {}
+        },
+        {
+            "source": 41,
+            "target": 55,
+            "type": "APPEARS_AS",
+            "properties": {}
+        },
+        {
+            "source": 41,
+            "target": 100,
+            "type": "PROSCRIBIR",
+            "properties": {}
+        },
+        {
+            "source": 43,
+            "target": 126,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 43,
+            "target": 52,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 122,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 126,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 52,
+            "type": "DREAMS_OF",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 171,
+            "type": "IN_CHARGE_OF_BLESSING",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 422,
+            "type": "ENCUENTRO",
+            "properties": {}
+        },
+        {
+            "source": 44,
+            "target": 433,
+            "type": "BLESSING",
+            "properties": {}
+        },
+        {
+            "source": 46,
+            "target": 333,
+            "type": "PROVIDE_SERVICES",
+            "properties": {}
+        },
+        {
+            "source": 46,
+            "target": 334,
+            "type": "OWN",
+            "properties": {}
+        },
+        {
+            "source": 46,
+            "target": 335,
+            "type": "OWN",
+            "properties": {}
+        },
+        {
+            "source": 46,
+            "target": 336,
+            "type": "OWN",
+            "properties": {}
+        },
+        {
+            "source": 57,
+            "target": 58,
+            "type": "MENTIONED",
+            "properties": {}
+        },
+        {
+            "source": 58,
+            "target": 61,
+            "type": "HAS_DREAM_REVELATION",
+            "properties": {}
+        },
+        {
+            "source": 59,
+            "target": 61,
+            "type": "HAS_DREAM_REVELATION",
+            "properties": {}
+        },
+        {
+            "source": 60,
+            "target": 62,
+            "type": "HAS_DREAM_REVELATION",
+            "properties": {}
+        },
+        {
+            "source": 64,
+            "target": 65,
+            "type": "REVELATION",
+            "properties": {}
+        },
+        {
+            "source": 64,
+            "target": 66,
+            "type": "INVITATION",
+            "properties": {}
+        },
+        {
+            "source": 64,
+            "target": 65,
+            "type": "APPEARANCE",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 68,
+            "type": "ASSOCIATION",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 68,
+            "type": "CONNECTED_TO",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 163,
+            "type": "CONNECTED_TO",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 67,
+            "type": "CELEBRATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 127,
+            "type": "REVALORACION",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 128,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 129,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 130,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 131,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 132,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 133,
+            "type": "DANZA",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 140,
+            "type": "PARTICIPANTS",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 141,
+            "type": "PARTICIPANTS",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 142,
+            "type": "PARTICIPANTS",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 153,
+            "type": "OBJECT_OF_CARRYING",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 153,
+            "type": "CONNECTION_WITH",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 164,
+            "type": "CONNECTION_WITH",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 165,
+            "type": "CONNECTION_WITH",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 166,
+            "type": "CONNECTION_WITH",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 167,
+            "type": "CONNECTION_WITH",
+            "properties": {}
+        },
+        {
+            "source": 65,
+            "target": 44,
+            "type": "LLEVADO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 168,
+            "type": "LOCATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 294,
+            "type": "PROVIDES",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 174,
+            "type": "VISIT",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 425,
+            "type": "VISIT",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 246,
+            "type": "LOCATION",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 247,
+            "type": "CONTRIBUTES_TO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 329,
+            "type": "CONTAINS",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 249,
+            "type": "BENEFITS",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 248,
+            "type": "IMPACTS",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 241,
+            "type": "FEATURES",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 233,
+            "type": "CELEBRATES",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 276,
+            "type": "PUBLISHED_STATISTICS",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 325,
+            "type": "FORMAT_GUIDELINES",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 65,
+            "type": "GENERATES_INCOME",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 68,
+            "type": "GENERATES_INCOME",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 237,
+            "type": "GENERATES_INCOME",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 238,
+            "type": "GENERATES_INCOME",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 65,
+            "type": "CELEBRADA_EN_EL_DISTRITO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 68,
+            "type": "CELEBRADA_EN_EL_DISTRITO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 237,
+            "type": "CELEBRADA_EN_EL_DISTRITO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 238,
+            "type": "CELEBRADA_EN_EL_DISTRITO",
+            "properties": {}
+        },
+        {
+            "source": 67,
+            "target": 424,
+            "type": "TRADITIONAL_DISH",
+            "properties": {}
+        },
+        {
+            "source": 68,
+            "target": 67,
+            "type": "CELEBRATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 68,
+            "target": 423,
+            "type": "GUIA",
+            "properties": {}
+        },
+        {
+            "source": 69,
+            "target": 154,
+            "type": "DEVOTION",
+            "properties": {}
+        },
+        {
+            "source": 69,
+            "target": 65,
+            "type": "REVELATION",
+            "properties": {}
+        },
+        {
+            "source": 69,
+            "target": 132,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 69,
+            "target": 156,
+            "type": "SELECTION",
+            "properties": {}
+        },
+        {
+            "source": 70,
+            "target": 65,
+            "type": "REQUEST",
+            "properties": {}
+        },
+        {
+            "source": 70,
+            "target": 65,
+            "type": "GRATITUDE",
+            "properties": {}
+        },
+        {
+            "source": 70,
+            "target": 65,
+            "type": "HEALING",
+            "properties": {}
+        },
+        {
+            "source": 71,
+            "target": 72,
+            "type": "RECOLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 71,
+            "type": "ORACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 74,
+            "type": "POSEER",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 76,
+            "type": "VISITAR",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 71,
+            "type": "ORAR",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 77,
+            "type": "LAMENTAR",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 79,
+            "type": "CARECER",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 80,
+            "type": "CARECER",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 81,
+            "type": "PREOCUPARSE",
+            "properties": {}
+        },
+        {
+            "source": 73,
+            "target": 82,
+            "type": "ESTABLECER",
+            "properties": {}
+        },
+        {
+            "source": 74,
+            "target": 75,
+            "type": "AFECTAR",
+            "properties": {}
+        },
+        {
+            "source": 82,
+            "target": 83,
+            "type": "VENDER",
+            "properties": {}
+        },
+        {
+            "source": 84,
+            "target": 85,
+            "type": "AMENAZAR",
+            "properties": {}
+        },
+        {
+            "source": 84,
+            "target": 104,
+            "type": "ADVERTIR",
+            "properties": {}
+        },
+        {
+            "source": 85,
+            "target": 86,
+            "type": "CONSTRUIR",
+            "properties": {}
+        },
+        {
+            "source": 87,
+            "target": 85,
+            "type": "MALOGRARSE",
+            "properties": {}
+        },
+        {
+            "source": 88,
+            "target": 52,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 88,
+            "target": 116,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 88,
+            "target": 84,
+            "type": "RECORDAR",
+            "properties": {}
+        },
+        {
+            "source": 88,
+            "target": 55,
+            "type": "COMPARTIR",
+            "properties": {}
+        },
+        {
+            "source": 88,
+            "target": 84,
+            "type": "COMPROMETERSE",
+            "properties": {}
+        },
+        {
+            "source": 96,
+            "target": 92,
+            "type": "VISITAR",
+            "properties": {}
+        },
+        {
+            "source": 96,
+            "target": 93,
+            "type": "AMENAZAR",
+            "properties": {}
+        },
+        {
+            "source": 96,
+            "target": 91,
+            "type": "ACLARAR",
+            "properties": {}
+        },
+        {
+            "source": 96,
+            "target": 92,
+            "type": "ACLARAR",
+            "properties": {}
+        },
+        {
+            "source": 96,
+            "target": 55,
+            "type": "RECIBIR",
+            "properties": {}
+        },
+        {
+            "source": 101,
+            "target": 111,
+            "type": "ACCIDENTE",
+            "properties": {}
+        },
+        {
+            "source": 102,
+            "target": 41,
+            "type": "PERSEGUIR",
+            "properties": {}
+        },
+        {
+            "source": 103,
+            "target": 41,
+            "type": "CUSTODIAR",
+            "properties": {}
+        },
+        {
+            "source": 103,
+            "target": 41,
+            "type": "ROGAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 109,
+            "type": "COMPROMETERSE",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 107,
+            "type": "ENTREGAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 107,
+            "type": "RETOMAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 107,
+            "type": "NO_ABANDONAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 107,
+            "type": "SEMBRAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 108,
+            "type": "PARTICIPAR",
+            "properties": {}
+        },
+        {
+            "source": 104,
+            "target": 108,
+            "type": "UNIRSE",
+            "properties": {}
+        },
+        {
+            "source": 105,
+            "target": 104,
+            "type": "INCUMPLIR",
+            "properties": {}
+        },
+        {
+            "source": 106,
+            "target": 97,
+            "type": "APOYAR",
+            "properties": {}
+        },
+        {
+            "source": 106,
+            "target": 98,
+            "type": "PREPARAR",
+            "properties": {}
+        },
+        {
+            "source": 106,
+            "target": 99,
+            "type": "CONSULTAR",
+            "properties": {}
+        },
+        {
+            "source": 106,
+            "target": 99,
+            "type": "APROBAR",
+            "properties": {}
+        },
+        {
+            "source": 106,
+            "target": 109,
+            "type": "HONRAR",
+            "properties": {}
+        },
+        {
+            "source": 110,
+            "target": 52,
+            "type": "DECISIONES",
+            "properties": {}
+        },
+        {
+            "source": 111,
+            "target": 112,
+            "type": "ACCIDENTE",
+            "properties": {}
+        },
+        {
+            "source": 113,
+            "target": 113,
+            "type": "TOLERANTE",
+            "properties": {}
+        },
+        {
+            "source": 116,
+            "target": 122,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 116,
+            "target": 126,
+            "type": "REVELACIONES",
+            "properties": {}
+        },
+        {
+            "source": 123,
+            "target": 122,
+            "type": "MAL_AUGURIO",
+            "properties": {}
+        },
+        {
+            "source": 124,
+            "target": 116,
+            "type": "IRRESPONSABLE",
+            "properties": {}
+        },
+        {
+            "source": 128,
+            "target": 69,
+            "type": "INITIATIVE",
+            "properties": {}
+        },
+        {
+            "source": 130,
+            "target": 131,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 134,
+            "target": 135,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 135,
+            "target": 136,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 137,
+            "target": 138,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 138,
+            "target": 139,
+            "type": "RELATIVE",
+            "properties": {}
+        },
+        {
+            "source": 142,
+            "target": 143,
+            "type": "FORMER_NAME",
+            "properties": {}
+        },
+        {
+            "source": 142,
+            "target": 144,
+            "type": "ATTIRE",
+            "properties": {}
+        },
+        {
+            "source": 142,
+            "target": 145,
+            "type": "MUSIC_INSTRUMENT",
+            "properties": {}
+        },
+        {
+            "source": 142,
+            "target": 146,
+            "type": "MONTURA",
+            "properties": {}
+        },
+        {
+            "source": 142,
+            "target": 149,
+            "type": "MUSICIAN",
+            "properties": {}
+        },
+        {
+            "source": 146,
+            "target": 147,
+            "type": "MONTURA_NAME",
+            "properties": {}
+        },
+        {
+            "source": 146,
+            "target": 148,
+            "type": "MONTURA_NAME",
+            "properties": {}
+        },
+        {
+            "source": 150,
+            "target": 151,
+            "type": "SERVING",
+            "properties": {}
+        },
+        {
+            "source": 150,
+            "target": 152,
+            "type": "SERVING",
+            "properties": {}
+        },
+        {
+            "source": 154,
+            "target": 155,
+            "type": "INTERACTION",
+            "properties": {}
+        },
+        {
+            "source": 156,
+            "target": 157,
+            "type": "INSTRUMENT_PLAYING",
+            "properties": {}
+        },
+        {
+            "source": 158,
+            "target": 159,
+            "type": "INVOLVEMENT",
+            "properties": {}
+        },
+        {
+            "source": 160,
+            "target": 161,
+            "type": "DEPICTION",
+            "properties": {}
+        },
+        {
+            "source": 160,
+            "target": 162,
+            "type": "DEPICTION",
+            "properties": {}
+        },
+        {
+            "source": 161,
+            "target": 65,
+            "type": "CONNECTED_TO",
+            "properties": {}
+        },
+        {
+            "source": 169,
+            "target": 65,
+            "type": "FRIEND_OF",
+            "properties": {}
+        },
+        {
+            "source": 170,
+            "target": 171,
+            "type": "MEMBER_OF",
+            "properties": {}
+        },
+        {
+            "source": 171,
+            "target": 181,
+            "type": "PERFORM",
+            "properties": {}
+        },
+        {
+            "source": 172,
+            "target": 173,
+            "type": "ACCOMPANY",
+            "properties": {}
+        },
+        {
+            "source": 173,
+            "target": 174,
+            "type": "VISIT",
+            "properties": {}
+        },
+        {
+            "source": 174,
+            "target": 175,
+            "type": "LOCATED_AT",
+            "properties": {}
+        },
+        {
+            "source": 174,
+            "target": 430,
+            "type": "OBSERVATION",
+            "properties": {}
+        },
+        {
+            "source": 175,
+            "target": 176,
+            "type": "RELATED_TO",
+            "properties": {}
+        },
+        {
+            "source": 176,
+            "target": 178,
+            "type": "CELEBRATE",
+            "properties": {}
+        },
+        {
+            "source": 176,
+            "target": 179,
+            "type": "ATTEND",
+            "properties": {}
+        },
+        {
+            "source": 176,
+            "target": 177,
+            "type": "USE",
+            "properties": {}
+        },
+        {
+            "source": 179,
+            "target": 180,
+            "type": "FOLLOWED_BY",
+            "properties": {}
+        },
+        {
+            "source": 180,
+            "target": 44,
+            "type": "INVOLVES",
+            "properties": {}
+        },
+        {
+            "source": 181,
+            "target": 182,
+            "type": "FOLLOWED_BY",
+            "properties": {}
+        },
+        {
+            "source": 182,
+            "target": 183,
+            "type": "PERFORM",
+            "properties": {}
+        },
+        {
+            "source": 182,
+            "target": 187,
+            "type": "HEAD_TO",
+            "properties": {}
+        },
+        {
+            "source": 183,
+            "target": 184,
+            "type": "AROUND",
+            "properties": {}
+        },
+        {
+            "source": 185,
+            "target": 186,
+            "type": "ENDS_WHEN_CAPTURED",
+            "properties": {}
+        },
+        {
+            "source": 187,
+            "target": 188,
+            "type": "HOST_TRADITIONAL_EVENT",
+            "properties": {}
+        },
+        {
+            "source": 188,
+            "target": 189,
+            "type": "FOLLOWED_BY",
+            "properties": {}
+        },
+        {
+            "source": 189,
+            "target": 151,
+            "type": "HONORS",
+            "properties": {}
+        },
+        {
+            "source": 218,
+            "target": 182,
+            "type": "PARTICIPATE",
+            "properties": {}
+        },
+        {
+            "source": 218,
+            "target": 440,
+            "type": "PARTICIPATE",
+            "properties": {}
+        },
+        {
+            "source": 218,
+            "target": 178,
+            "type": "OBSERVATION",
+            "properties": {}
+        },
+        {
+            "source": 218,
+            "target": 429,
+            "type": "ENJOY_MUSIC",
+            "properties": {}
+        },
+        {
+            "source": 218,
+            "target": 441,
+            "type": "ENJOY",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 225,
+            "type": "SUPPORT",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 231,
+            "type": "THESIS_ADVISOR",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 227,
+            "type": "MEMBER_OF_JURY",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 228,
+            "type": "MEMBER_OF_JURY",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 229,
+            "type": "MEMBER_OF_JURY",
+            "properties": {}
+        },
+        {
+            "source": 226,
+            "target": 230,
+            "type": "MEMBER_OF_JURY",
+            "properties": {}
+        },
+        {
+            "source": 232,
+            "target": 233,
+            "type": "DESCRIPCI\u00d3N_DEL_APORTE_ECON\u00d3MICO",
+            "properties": {}
+        },
+        {
+            "source": 232,
+            "target": 234,
+            "type": "EXPLORACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 65,
+            "type": "INVENTARIO_DE_RECURSOS_TUR\u00cdSTICOS",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 68,
+            "type": "INVENTARIO_DE_RECURSOS_TUR\u00cdSTICOS",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 237,
+            "type": "INVENTARIO_DE_RECURSOS_TUR\u00cdSTICOS",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 238,
+            "type": "INVENTARIO_DE_RECURSOS_TUR\u00cdSTICOS",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 67,
+            "type": "ATRACCI\u00d3N_PARA_VISITANTES",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 344,
+            "type": "CARACTERIZAN",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 65,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 68,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 237,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 233,
+            "target": 238,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 238,
+            "target": 67,
+            "type": "CELEBRATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 239,
+            "target": 235,
+            "type": "TIPO_DE_METODOLOG\u00cdA",
+            "properties": {}
+        },
+        {
+            "source": 239,
+            "target": 236,
+            "type": "NIVEL_DE_INVESTIGACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 242,
+            "target": 241,
+            "type": "INTEREST",
+            "properties": {}
+        },
+        {
+            "source": 242,
+            "target": 67,
+            "type": "VISIT_DESTINATION",
+            "properties": {}
+        },
+        {
+            "source": 244,
+            "target": 243,
+            "type": "CONTRIBUTION",
+            "properties": {}
+        },
+        {
+            "source": 244,
+            "target": 241,
+            "type": "PARTICIPATION",
+            "properties": {}
+        },
+        {
+            "source": 244,
+            "target": 242,
+            "type": "INTERACTION",
+            "properties": {}
+        },
+        {
+            "source": 244,
+            "target": 245,
+            "type": "SERVICE_PROVIDER",
+            "properties": {}
+        },
+        {
+            "source": 250,
+            "target": 251,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 250,
+            "target": 252,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 250,
+            "target": 253,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 250,
+            "target": 254,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 250,
+            "target": 255,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 252,
+            "target": 318,
+            "type": "CULINARY_OFFERINGS",
+            "properties": {}
+        },
+        {
+            "source": 256,
+            "target": 257,
+            "type": "MENTIONED",
+            "properties": {}
+        },
+        {
+            "source": 258,
+            "target": 260,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 258,
+            "target": 261,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 258,
+            "target": 263,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 259,
+            "target": 260,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 259,
+            "target": 261,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 259,
+            "target": 263,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 266,
+            "target": 265,
+            "type": "POTENTIAL_TOURISTIC_AREA",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 268,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 269,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 270,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 271,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 272,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 267,
+            "target": 267,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 273,
+            "target": 267,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 273,
+            "target": 268,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 273,
+            "target": 271,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 273,
+            "target": 272,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 273,
+            "target": 276,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 274,
+            "target": 267,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 274,
+            "target": 268,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 274,
+            "target": 271,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 274,
+            "target": 272,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 275,
+            "target": 267,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 275,
+            "target": 268,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 275,
+            "target": 271,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 275,
+            "target": 272,
+            "type": "PRESENTED_IN",
+            "properties": {}
+        },
+        {
+            "source": 276,
+            "target": 380,
+            "type": "APOYO",
+            "properties": {}
+        },
+        {
+            "source": 277,
+            "target": 281,
+            "type": "OBJETIVO_PRINCIPAL",
+            "properties": {}
+        },
+        {
+            "source": 277,
+            "target": 283,
+            "type": "CONSERVACI\u00d3N_Y_PRESERVACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 277,
+            "target": 278,
+            "type": "INTER\u00c9S_ECON\u00d3MICO",
+            "properties": {}
+        },
+        {
+            "source": 277,
+            "target": 284,
+            "type": "AGLUTINACI\u00d3N_DE_VISITANTES",
+            "properties": {}
+        },
+        {
+            "source": 279,
+            "target": 277,
+            "type": "RAZONES",
+            "properties": {}
+        },
+        {
+            "source": 286,
+            "target": 287,
+            "type": "GENERACI\u00d3N_DE_COSTOS_Y_BENEFICIOS",
+            "properties": {}
+        },
+        {
+            "source": 286,
+            "target": 289,
+            "type": "CAMBIOS_EN_MODOS_DE_VIDA",
+            "properties": {}
+        },
+        {
+            "source": 286,
+            "target": 288,
+            "type": "ESTRAGOS",
+            "properties": {}
+        },
+        {
+            "source": 290,
+            "target": 291,
+            "type": "CRECIMIENTO_SOCIOECON\u00d3MICO",
+            "properties": {}
+        },
+        {
+            "source": 290,
+            "target": 82,
+            "type": "AMPLIACI\u00d3N_DE_ESFERAS",
+            "properties": {}
+        },
+        {
+            "source": 292,
+            "target": 293,
+            "type": "INTEGRACI\u00d3N_DE_ELEMENTOS",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 252,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 316,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 337,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 338,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 339,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 340,
+            "type": "INCLUDES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 295,
+            "type": "ACEPTACI\u00d3N_DE_NO_RESIDENTES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 296,
+            "type": "CAPACIDAD_DE_CUBRIR_NECESIDADES",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 297,
+            "type": "CONSTITUCI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 298,
+            "type": "BASE_DE_SUSTENTACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 294,
+            "target": 299,
+            "type": "ATRACTIVOS",
+            "properties": {}
+        },
+        {
+            "source": 300,
+            "target": 301,
+            "type": "IMPULSO",
+            "properties": {}
+        },
+        {
+            "source": 302,
+            "target": 303,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 302,
+            "target": 304,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 302,
+            "target": 305,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 302,
+            "target": 306,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 302,
+            "target": 307,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 307,
+            "target": 308,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 309,
+            "target": 310,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 311,
+            "target": 237,
+            "type": "INCLUYE",
+            "properties": {}
+        },
+        {
+            "source": 312,
+            "target": 67,
+            "type": "CELEBRATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 313,
+            "target": 67,
+            "type": "CELEBRATED_IN",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 315,
+            "type": "DISTINCT_CATEGORIES",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 277,
+            "type": "REALIZAN",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 349,
+            "type": "REALIZAN",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 352,
+            "type": "DISPONEN_DE",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 353,
+            "type": "DISPONEN_DE",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 354,
+            "type": "ENCUENTRAN_ES",
+            "properties": {}
+        },
+        {
+            "source": 314,
+            "target": 355,
+            "type": "ENCUENTRAN_ES",
+            "properties": {}
+        },
+        {
+            "source": 316,
+            "target": 318,
+            "type": "QUALITY_MANAGEMENT",
+            "properties": {}
+        },
+        {
+            "source": 316,
+            "target": 320,
+            "type": "QUALITY_MANAGEMENT",
+            "properties": {}
+        },
+        {
+            "source": 317,
+            "target": 252,
+            "type": "KNOWLEDGE_AND_EXPERIENCES",
+            "properties": {}
+        },
+        {
+            "source": 317,
+            "target": 318,
+            "type": "KNOWLEDGE_AND_EXPERIENCES",
+            "properties": {}
+        },
+        {
+            "source": 318,
+            "target": 319,
+            "type": "INFRASTRUCTURE",
+            "properties": {}
+        },
+        {
+            "source": 318,
+            "target": 320,
+            "type": "INFRASTRUCTURE",
+            "properties": {}
+        },
+        {
+            "source": 318,
+            "target": 233,
+            "type": "CRECIMIENTO_DURANTE_FESTIVIDADES",
+            "properties": {}
+        },
+        {
+            "source": 321,
+            "target": 322,
+            "type": "GENERAL_HYPOTHESIS",
+            "properties": {}
+        },
+        {
+            "source": 323,
+            "target": 277,
+            "type": "VARIABLE_DEFINITION",
+            "properties": {}
+        },
+        {
+            "source": 323,
+            "target": 324,
+            "type": "VARIABLE_DEFINITION",
+            "properties": {}
+        },
+        {
+            "source": 328,
+            "target": 233,
+            "type": "ALTERNATIVA_DURANTE_VIAJES",
+            "properties": {}
+        },
+        {
+            "source": 330,
+            "target": 331,
+            "type": "ATTRACTS",
+            "properties": {}
+        },
+        {
+            "source": 330,
+            "target": 332,
+            "type": "INCREASES_VISITORS",
+            "properties": {}
+        },
+        {
+            "source": 332,
+            "target": 233,
+            "type": "INFLUYE_EN_AFLUENCIA_DE_VISITANTES",
+            "properties": {}
+        },
+        {
+            "source": 333,
+            "target": 331,
+            "type": "OFRECEN_SERVICIOS_A",
+            "properties": {}
+        },
+        {
+            "source": 341,
+            "target": 342,
+            "type": "IDENTIFICA_CALIDAD_DE_SERVICIOS_COMO",
+            "properties": {}
+        },
+        {
+            "source": 342,
+            "target": 333,
+            "type": "BUENA_CALIDAD",
+            "properties": {}
+        },
+        {
+            "source": 342,
+            "target": 333,
+            "type": "REGULAR_CALIDAD",
+            "properties": {}
+        },
+        {
+            "source": 342,
+            "target": 332,
+            "type": "DE_ACUERDO_CON_LA_PROMOCI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 343,
+            "target": 341,
+            "type": "AUMENTA_DURANTE_FESTIVIDADES",
+            "properties": {}
+        },
+        {
+            "source": 344,
+            "target": 345,
+            "type": "CONTRIBUYEN_A",
+            "properties": {}
+        },
+        {
+            "source": 345,
+            "target": 346,
+            "type": "DEFINIDO_POR",
+            "properties": {}
+        },
+        {
+            "source": 345,
+            "target": 347,
+            "type": "DEFINIDO_POR",
+            "properties": {}
+        },
+        {
+            "source": 345,
+            "target": 348,
+            "type": "DEFINIDO_POR",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 294,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 309,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 362,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 277,
+            "type": "REALIZAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 360,
+            "type": "REALIZAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 361,
+            "type": "REALIZAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 352,
+            "type": "DISPONEN_DE",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 353,
+            "type": "DISPONEN_DE",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 314,
+            "type": "VISITAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 354,
+            "type": "ENCUENTRAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 355,
+            "type": "ENCUENTRAN",
+            "properties": {}
+        },
+        {
+            "source": 351,
+            "target": 359,
+            "type": "COORDINAN_CON",
+            "properties": {}
+        },
+        {
+            "source": 354,
+            "target": 356,
+            "type": "MEJORAN_EN",
+            "properties": {}
+        },
+        {
+            "source": 355,
+            "target": 356,
+            "type": "MEJORAN_EN",
+            "properties": {}
+        },
+        {
+            "source": 359,
+            "target": 276,
+            "type": "COORDINAN_CON",
+            "properties": {}
+        },
+        {
+            "source": 363,
+            "target": 364,
+            "type": "FALTA_DE",
+            "properties": {}
+        },
+        {
+            "source": 363,
+            "target": 364,
+            "type": "INEXISTENCIA_DE",
+            "properties": {}
+        },
+        {
+            "source": 365,
+            "target": 366,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 366,
+            "target": 367,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 366,
+            "target": 368,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 368,
+            "target": 369,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 370,
+            "target": 372,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 370,
+            "target": 371,
+            "type": "TIENE_COMO_OBJETIVO",
+            "properties": {}
+        },
+        {
+            "source": 372,
+            "target": 373,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 372,
+            "target": 374,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 372,
+            "target": 375,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 372,
+            "target": 376,
+            "type": "INCLUYEN",
+            "properties": {}
+        },
+        {
+            "source": 375,
+            "target": 404,
+            "type": "PERSONALIZACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 375,
+            "target": 405,
+            "type": "PERSONALIZACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 375,
+            "target": 406,
+            "type": "PERSONALIZACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 377,
+            "target": 378,
+            "type": "SERVICIO_INTEGRAL",
+            "properties": {}
+        },
+        {
+            "source": 377,
+            "target": 379,
+            "type": "APORTAR_INGRESOS",
+            "properties": {}
+        },
+        {
+            "source": 380,
+            "target": 377,
+            "type": "MEJORA_DE_SERVICIOS_Y_EST\u00c1NDARES_DE_CALIDAD",
+            "properties": {}
+        },
+        {
+            "source": 381,
+            "target": 377,
+            "type": "IMPLEMENTACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 381,
+            "target": 382,
+            "type": "IMPLEMENTACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 382,
+            "target": 420,
+            "type": "ASESORAMIENTO",
+            "properties": {}
+        },
+        {
+            "source": 384,
+            "target": 385,
+            "type": "INFORMACI\u00d3N_TUR\u00cdSTICA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 386,
+            "type": "PROMOCI\u00d3N_DIRECTA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 387,
+            "type": "PROMOCI\u00d3N_DIRECTA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 388,
+            "type": "PROMOCI\u00d3N_DIRECTA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 389,
+            "type": "PROMOCI\u00d3N_DIRECTA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 390,
+            "type": "PROMOCI\u00d3N_DIRECTA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 395,
+            "type": "DIFUSI\u00d3N_TUR\u00cdSTICA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 396,
+            "type": "DIFUSI\u00d3N_TUR\u00cdSTICA",
+            "properties": {}
+        },
+        {
+            "source": 385,
+            "target": 384,
+            "type": "INFORMACI\u00d3N_TUR\u00cdSTICA",
+            "properties": {}
+        },
+        {
+            "source": 396,
+            "target": 397,
+            "type": "PUBLICACI\u00d3N_PERI\u00d3DICA",
+            "properties": {}
+        },
+        {
+            "source": 396,
+            "target": 398,
+            "type": "PUBLICACI\u00d3N_PERI\u00d3DICA",
+            "properties": {}
+        },
+        {
+            "source": 396,
+            "target": 399,
+            "type": "PUBLICACI\u00d3N_PERI\u00d3DICA",
+            "properties": {}
+        },
+        {
+            "source": 396,
+            "target": 400,
+            "type": "PUBLICACI\u00d3N_PERI\u00d3DICA",
+            "properties": {}
+        },
+        {
+            "source": 396,
+            "target": 401,
+            "type": "PUBLICACI\u00d3N_PERI\u00d3DICA",
+            "properties": {}
+        },
+        {
+            "source": 402,
+            "target": 403,
+            "type": "CREACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 403,
+            "target": 375,
+            "type": "PERSONALIZACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 403,
+            "target": 408,
+            "type": "CONSIDERACI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 406,
+            "target": 407,
+            "type": "INCLUSI\u00d3N",
+            "properties": {}
+        },
+        {
+            "source": 408,
+            "target": 377,
+            "type": "BENEFICIO_DIRECTO",
+            "properties": {}
+        },
+        {
+            "source": 411,
+            "target": 412,
+            "type": "PROPUESTA_DE_TOURS",
+            "properties": {}
+        },
+        {
+            "source": 412,
+            "target": 413,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 413,
+            "target": 414,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 414,
+            "target": 415,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 415,
+            "target": 416,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 416,
+            "target": 417,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 417,
+            "target": 418,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 418,
+            "target": 419,
+            "type": "SUGERENCIA_DE_LLEGADA",
+            "properties": {}
+        },
+        {
+            "source": 421,
+            "target": 44,
+            "type": "CONDUCE",
+            "properties": {}
+        },
+        {
+            "source": 425,
+            "target": 182,
+            "type": "ACCOMPANY",
+            "properties": {}
+        },
+        {
+            "source": 425,
+            "target": 217,
+            "type": "ACCOMPANY",
+            "properties": {}
+        },
+        {
+            "source": 425,
+            "target": 426,
+            "type": "ROUTE",
+            "properties": {}
+        },
+        {
+            "source": 427,
+            "target": 218,
+            "type": "VISIT",
+            "properties": {}
+        },
+        {
+            "source": 427,
+            "target": 428,
+            "type": "OBSERVATION",
+            "properties": {}
+        },
+        {
+            "source": 427,
+            "target": 439,
+            "type": "DINNER",
+            "properties": {}
+        },
+        {
+            "source": 431,
+            "target": 217,
+            "type": "WAIT_FOR",
+            "properties": {}
+        },
+        {
+            "source": 431,
+            "target": 432,
+            "type": "MOVE_TO",
+            "properties": {}
+        },
+        {
+            "source": 431,
+            "target": 434,
+            "type": "WATCH",
+            "properties": {}
+        },
+        {
+            "source": 431,
+            "target": 435,
+            "type": "WATCH",
+            "properties": {}
+        },
+        {
+            "source": 434,
+            "target": 436,
+            "type": "REPRESENT",
+            "properties": {}
+        },
+        {
+            "source": 435,
+            "target": 436,
+            "type": "REPRESENT",
+            "properties": {}
+        },
+        {
+            "source": 437,
+            "target": 164,
+            "type": "CONFLICT",
+            "properties": {}
+        },
+        {
+            "source": 437,
+            "target": 438,
+            "type": "PARTICIPATE",
+            "properties": {}
+        },
+        {
+            "source": 442,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 443,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 444,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 445,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 446,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 447,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 448,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 449,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 450,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 451,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 452,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 453,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 454,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 455,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 456,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 457,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 458,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 459,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 460,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 461,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 462,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 463,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 464,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 465,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 466,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 467,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 468,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 469,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 470,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 471,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 472,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 473,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        },
+        {
+            "source": 474,
+            "target": 475,
+            "type": "UTILIZED_FOR_DATA_COLLECTION",
+            "properties": {}
+        }
+    ]
+}
